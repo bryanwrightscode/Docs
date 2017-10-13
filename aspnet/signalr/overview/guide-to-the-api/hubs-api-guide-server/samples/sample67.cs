@@ -1,5 +1,5 @@
 // For the complete example, go to 
-// http://www.asp.net/signalr/overview/getting-started/tutorial-server-broadcast-with-aspnet-signalr
+// https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/tutorial-server-broadcast-with-signalr
 // This sample only shows code related to getting and using the SignalR context.
 public class StockTicker
 {
